@@ -12,8 +12,8 @@ using Proyecto2.API.Data;
 namespace Proyecto2.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230902205035_Inicial")]
-    partial class Inicial
+    [Migration("20230902213555_inicial2")]
+    partial class inicial2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
